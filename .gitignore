@@ -1,0 +1,9 @@
+node_modules
+.turbo
+.next
+dist
+*.db
+*.db-journal
+.env
+.env*.local
+!.env.example
